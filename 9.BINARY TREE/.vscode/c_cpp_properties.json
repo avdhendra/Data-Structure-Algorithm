@@ -1,0 +1,12 @@
+{
+    "configurations": [
+        {
+            "name": "GCC",
+            "includePath": [
+                "${workspaceFolder}/**"
+            ],
+            "compilerPath": "C:/MinGW/bin/g++.exe"
+        }
+    ],
+    "version": 4
+}
